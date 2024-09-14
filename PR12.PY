@@ -1,4 +1,4 @@
-#find birth month
+1#find birth month
 d={"Ashwin":"12/02/04","Jignesh":"30/03/03","Manish":"10/05/03","Nitesh":"20/11/04","Tanvi":"28/09/96"}
 c=1
 for i in d.keys():
